@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d99ae9b-8176-4c14-a0a0-45f235662d57" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fl8Nb0vKSgNFLrzj6d75rmo8Ol" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Delete_a_node.executor": "Run",
+    "Application.Find_sum.executor": "Run",
+    "Application.Insert_in_sorted_doublyList.executor": "Run",
+    "Application.LinkedList_loop_count.executor": "Run",
+    "Application.Remove_duplicate_from_sorted_doublyList.executor": "Run",
+    "Application.Remove_duplicate_nodes.executor": "Run",
+    "Application.Remove_duplicates.executor": "Run",
+    "Application.Remve_duplicates_unsorted.executor": "Run",
+    "Application.Reverse_doublyList.executor": "Run",
+    "Application.Swap_first_and_last_value.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/(F)-Drive/Java/LinkedLists",
+    "onboarding.tips.debug.path": "C:/Users/Administrator/Desktop/Darshan Moradiya/LinkedLists/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tasks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Reverse_linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Reverse_linkedlist" />
+      <module name="LinkedLists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Single_circular (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Single_circular_linklist.Single_circular" />
+      <module name="LinkedLists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Single_circular_linklist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Single_circular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Single_circular_linklist.Single_circular" />
+      <module name="LinkedLists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Single_circular_linklist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reverse_linkedlist" />
+        <item itemvalue="Application.Single_circular" />
+        <item itemvalue="Application.Single_circular (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d99ae9b-8176-4c14-a0a0-45f235662d57" name="Changes" comment="" />
+      <created>1714364266832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714364266832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tasks/LinkedLists.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
