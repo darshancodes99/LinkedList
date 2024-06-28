@@ -19,23 +19,19 @@ public class Remove_duplicate_from_sorted_doublyList {
     }
 
     public static void removeDuplicate(DoublyList dl) {
-        Node temp = dl.head;
-        Node ex = dl.head;
-        while (ex != null) {
-            while (ex != null && ex.value == temp.value) {
-                ex = ex.next;
+        Node current = dl.head;
+        while (current != null && current.next != null) {
+            if (current.value == current.next.value) {
+                Node duplicate = current.next;
+                current.next = duplicate.next;
+                if (duplicate.next != null) {
+                    duplicate.next.prev = current;
+                } else {
+                    dl.tail = current;
+                }
+            } else {
+                current = current.next;
             }
-            if (ex == null) {
-                temp.next = null;
-                dl.tail = temp;
-                return;
-            }
-            temp.next = ex;
-            ex.prev = temp;
-            temp = temp.next;
-            ex = ex.next;
         }
-
-
     }
 }
